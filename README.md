@@ -1,4 +1,4 @@
-# rsuu
+# RSUU
 
 <img src="./idea/2022/221226-1.jpg"></img>
 
